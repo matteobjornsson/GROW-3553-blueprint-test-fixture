@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: grow-3553-applied
+    envVars:
+      - key: FIXTURE
+        value: applied
