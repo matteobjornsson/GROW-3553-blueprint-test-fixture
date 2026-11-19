@@ -1,5 +1,1 @@
-envVarGroups:
-  - name: grow-3553-alpha
-    envVars:
-      - key: FIXTURE
-        value: alpha
+services: [
